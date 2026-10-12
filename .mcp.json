@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sportsdata": {
+      "command": "uvx",
+      "args": ["sportsdata-mcp==0.22.1", "serve"]
+    }
+  }
+}
